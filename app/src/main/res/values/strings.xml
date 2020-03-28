@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TesisProp2</string>
+    <string name="welcome">Parece que no hay nada aqui!</string>
+    <string name="welcome2">Agrega un Nuevo Objeto o Ambiente</string>
+
+    <string name="search_icon">search</string>
+    <string name="import_export">import_export</string>
+    <string name="sort">sort</string>
+    <string name="queryHint">Objetos o Ambientes</string>
+</resources>

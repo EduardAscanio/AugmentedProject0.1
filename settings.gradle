@@ -1,0 +1,2 @@
+rootProject.name='TesisProp2'
+include ':app'
